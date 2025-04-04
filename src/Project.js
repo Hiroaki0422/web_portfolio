@@ -27,34 +27,34 @@ const Project = () => {
     {
       title:
         "MLOps-Enabled Full Stack ML Pipeline with Real-Time Inference and Workflow Automation",
-      link: "#",
+      link: "https://github.com/Hiroaki0422/tft_stock_preds_mlops/#readme",
       image: img,
     },
     {
       title:
         "GeoVisualizing Rent Burden: A U.S. County-Level Interactive Dashboard",
-      link: "#",
+      link: "https://hiroaki0422.github.io/rent_burden_interactive_map/",
       image: img2,
     },
     {
       title:
         "Temporal Fusion-Based Stock Predictor Enhanced by Daily News Sentiment",
-      link: "#",
+      link: "https://github.com/Hiroaki0422/tft_stock_predictor/#readme",
       image: img3,
     },
     {
       title: "Fine Tuning DeepSeek: Teach DeepSeek How To Code Terraform",
-      link: "#",
+      link: "https://github.com/Hiroaki0422/deepseek_terraform_finetune/#readme",
       image: img4,
     },
     {
       title: "RAG + DeepSeek: Scalable Knowledge-Aware Chatbot Pipeline",
-      link: "#",
+      link: "https://github.com/Hiroaki0422/rag_deepseek_chatbot/blob/main/deepseek-chatbot-with-rag-service.ipynb",
       image: img5,
     },
     {
       title: "From Parquet to Delta: Building a Modern Lakehouse Architecture",
-      link: "#",
+      link: "https://github.com/Hiroaki0422/delta_lake_portfolio/#readme",
       image: img6,
     },
   ];
