@@ -1,5 +1,10 @@
 import React from "react";
-import img from "./placeholder.jpg"; // Replace with your own image or pass it as a prop
+import img from "./img/image1.png";
+import img2 from "./img/image2.png";
+import img3 from "./img/image3.png";
+import img4 from "./img/image4.png";
+import img5 from "./img/image5.png";
+import img6 from "./img/image6.png";
 
 const ItemBox = ({ title, link, image }) => {
   return (
@@ -29,28 +34,28 @@ const Project = () => {
       title:
         "GeoVisualizing Rent Burden: A U.S. County-Level Interactive Dashboard",
       link: "#",
-      image: img,
+      image: img2,
     },
     {
       title:
         "Temporal Fusion-Based Stock Predictor Enhanced by Daily News Sentiment",
       link: "#",
-      image: img,
+      image: img3,
     },
     {
       title: "Fine Tuning DeepSeek: Teach DeepSeek How To Code Terraform",
       link: "#",
-      image: img,
+      image: img4,
     },
     {
       title: "RAG + DeepSeek: Scalable Knowledge-Aware Chatbot Pipeline",
       link: "#",
-      image: img,
+      image: img5,
     },
     {
       title: "From Parquet to Delta: Building a Modern Lakehouse Architecture",
       link: "#",
-      image: img,
+      image: img6,
     },
   ];
 
