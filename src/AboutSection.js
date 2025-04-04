@@ -14,6 +14,7 @@ const AboutSection = () => {
         </div>
 
         <div class="flex-item ">
+          <br></br>
           Hi, I'm Hiro! I'm a professional Data Engineer with a deep passion for
           machine learning, AI technologies, and building robots that make a
           real difference in people's lives. Since earning my Bachelor's degree
