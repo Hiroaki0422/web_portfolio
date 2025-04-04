@@ -21,29 +21,36 @@ const Project = () => {
   const projects = [
     {
       title:
-        "State-of-art Attention-model Stock Price Predictor with Sentiment Analysis",
-      link: "#", // Replace with actual URL
-    },
-    {
-      title: "Fine-tuning Deepseek coder to generate Terraform code",
+        "MLOps-Enabled Full Stack ML Pipeline with Real-Time Inference and Workflow Automation",
       link: "#",
-    },
-    {
-      title: "Efficient RAG Pipeline with Deepseek Chatbot",
-      link: "#",
+      image: img,
     },
     {
       title:
-        "Databricks Data Lakehouse: Efficient Alternative for Data Warehousing",
+        "GeoVisualizing Rent Burden: A U.S. County-Level Interactive Dashboard",
       link: "#",
+      image: img,
     },
     {
-      title: "Interactive Geographical Visualization of Housing Cost Burden",
+      title:
+        "Temporal Fusion-Based Stock Predictor Enhanced by Daily News Sentiment",
       link: "#",
+      image: img,
     },
     {
-      title: "End-to-End MLOps setup with fully open source tech stack",
+      title: "Fine Tuning DeepSeek: Teach DeepSeek How To Code Terraform",
       link: "#",
+      image: img,
+    },
+    {
+      title: "RAG + DeepSeek: Scalable Knowledge-Aware Chatbot Pipeline",
+      link: "#",
+      image: img,
+    },
+    {
+      title: "From Parquet to Delta: Building a Modern Lakehouse Architecture",
+      link: "#",
+      image: img,
     },
   ];
 
@@ -55,7 +62,7 @@ const Project = () => {
             key={index}
             title={project.title}
             link={project.link}
-            image={img}
+            image={project.image}
           />
         ))}
       </div>
