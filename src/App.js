@@ -36,7 +36,7 @@ export default function App() {
           </nav>
         </div>
       </div>
-      <div class="flex-item flex-item-01 container2">
+      <div class="aboutme flex-item flex-item-01 container2">
         <h1> About me </h1>
         <AboutSection />
       </div>
