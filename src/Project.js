@@ -37,6 +37,11 @@ const Project = () => {
       image: img2,
     },
     {
+      title: "From Parquet to Delta: Building a Modern Lakehouse Architecture",
+      link: "https://github.com/Hiroaki0422/delta_lake_portfolio/#readme",
+      image: img6,
+    },
+    {
       title:
         "Temporal Fusion-Based Stock Predictor Enhanced by Daily News Sentiment",
       link: "https://github.com/Hiroaki0422/tft_stock_predictor/#readme",
@@ -51,11 +56,6 @@ const Project = () => {
       title: "RAG + DeepSeek: Scalable Knowledge-Aware Chatbot Pipeline",
       link: "https://github.com/Hiroaki0422/rag_deepseek_chatbot/blob/main/deepseek-chatbot-with-rag-service.ipynb",
       image: img5,
-    },
-    {
-      title: "From Parquet to Delta: Building a Modern Lakehouse Architecture",
-      link: "https://github.com/Hiroaki0422/delta_lake_portfolio/#readme",
-      image: img6,
     },
   ];
 
